@@ -9,7 +9,7 @@ I am a Computer Engineering student, passionate about programming. My studies ha
 - 🌱 I’m currently learning frontend web development with Angular and React
 - 💞️ I’m looking to collaborate on frontend projects
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1]
 
 <!-- Icons -->
 
