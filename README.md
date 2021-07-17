@@ -2,7 +2,7 @@
 
 I am a Computer Engineering student, passionate about programming. My studies have helped me to improve my logic in order to solve complex problems in an ordered and efficient way, following design patterns and good programming practices.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroQR23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroQR23&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👀 I’m interested in web development, AI and data science
