@@ -2,11 +2,7 @@
 
 I am a Computer Engineering student, passionate about programming. My studies have helped me to improve my logic in order to solve complex problems in an ordered and efficient way, following design patterns and good programming practices.
 
-You can find me on: 
-
-- [![Twitter][1.2]][1]  
-- [![Instagram][2.2]][2]  
-- [![Linkedin][3.2]][3]
+You can find me on: [![Twitter][1.2]][1],  [![Instagram][2.2]][2] or  [![Linkedin][3.2]][3]
 
 ## Technologies and Tools ⚙
 
