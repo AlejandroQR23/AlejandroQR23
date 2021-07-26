@@ -16,7 +16,7 @@ You can find me on: [![Twitter][1.2]][1],  [![Instagram][2.2]][2] or  [![Linkedi
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=668aaa)
 ![](https://img.shields.io/badge/Tools-Latex-informational?style=flat&logo=latex&logoColor=white&color=668aaa)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroQR23&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroQR23&langs_count=6&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👀 I’m interested in web development, AI and data science
