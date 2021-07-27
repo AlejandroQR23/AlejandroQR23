@@ -19,10 +19,6 @@ You can find me on: [![Twitter][1.2]][1],  [![Instagram][2.2]][2] or  [![Linkedi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroQR23&langs_count=6&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 👀 I’m interested in web development, AI and data science
-- 🌱 I’m currently learning frontend web development with Angular and React
-- 💞️ I’m looking to collaborate on frontend projects
-
 
 
 <!-- Icons -->
