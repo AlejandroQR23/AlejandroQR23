@@ -30,7 +30,7 @@ You can find me on: [![Twitter][1.2]][1],  [![Instagram][2.2]][2] or  [![Linkedi
 
 [1]: https://twitter.com/alejandroqr23
 [2]: https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Falejandroqr23%3Ffbclid%3DIwAR1KJmjdVygG6olBIrmQuTB55SlSd-JBujOSq1vGKWpjlvG4XJGhJutnzrU&h=AT0ZMGx0Bt-ZgJtdPQEKL_lCBegUUf2bXLdfvnA7Yx1pVPhF36v-XEb0-JOgedUtBPZl50FjA-Ih6-ZoTTqFWIzcr_V94l2rwBpI6RW17ow_bOx5JYj7QibOIE3HFal5zP8S
-[3]: https://www.linkedin.com/in/alejandro-quijano-ram%C3%ADrez-b388891b7/
+[3]: https://www.linkedin.com/in/alejandro-quijano23
 
 <!---
 AlejandroQR23/AlejandroQR23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
